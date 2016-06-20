@@ -1,24 +1,4 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Behavior-Driven Development of a Rails REST API With Cucumber and RSpec 
+Part I: http://www.behaveonrails.com/?p=374 <br />
+Part II: http://www.behaveonrails.com/?p=393 <br />
+Part III: http://www.behaveonrails.com/?p=416
